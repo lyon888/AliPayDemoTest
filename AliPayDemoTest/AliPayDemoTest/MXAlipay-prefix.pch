@@ -1,0 +1,7 @@
+
+#ifndef MXAlipay_prefix_pch
+#define MXAlipay_prefix_pch
+
+#import "MXAlipayConfig.h"
+
+#endif /* MXAlipay_prefix_pch */
